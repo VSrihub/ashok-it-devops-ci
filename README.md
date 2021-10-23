@@ -1,2 +1,2 @@
-# ashok-it-devops-ci
+# Medilab Preclinic Application Automation
 #enabling automation
